@@ -1,0 +1,10 @@
+$ echo hello
+hello
+$ pwd
+/Users/onyxfish/src/tshirt
+$ cd ..
+$ pwd
+/Users/onyxfish/src
+$ cd commencement
+$ pwd
+/Users/onyxfish/src/commencement
